@@ -54,7 +54,7 @@ function App() {
       }
     return (
         <div>
-          <h1 className='text-center'>Buy Products</h1>
+          <h1 className='text-center'>Book Rooms</h1>
     
           <div class="card product-card">
             <img src="https://images.unsplash.com/photo-1615874959474-d609969a20ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmVkJTIwcm9vbXxlbnwwfHwwfHw%3D&w=1000&q=80" class="card-img-top" alt="..." />
